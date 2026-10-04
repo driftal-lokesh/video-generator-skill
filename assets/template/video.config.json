@@ -1,0 +1,38 @@
+{
+  "fps": 60,
+  "width": 1920,
+  "height": 1080,
+  "brand": {
+    "name": "Acme",
+    "tagline": "Your assistant. It talks first.",
+    "user": "Alex",
+    "colors": {
+      "canvas": "#F8F9FB",
+      "surface": "#FFFFFF",
+      "ink": "#0A0D14",
+      "ink2": "#3D4250",
+      "muted": "#656B76",
+      "faint": "#A3A8B4",
+      "line": "#E5E7EE",
+      "primary": "#5A4DE5",
+      "secondary": "#8B5CF6",
+      "accent": "#C25BF0",
+      "tint": "#EEEFFC",
+      "tintLine": "#C9CBF7",
+      "sky": "#5CB8FF",
+      "pink": "#F472B6",
+      "peach": "#FDBA74",
+      "warn": "#F59E0B",
+      "danger": "#F43F5E"
+    },
+    "markPath": "M50 0 C53 33 67 47 100 50 C67 53 53 67 50 100 C47 67 33 53 0 50 C33 47 47 33 50 0Z"
+  },
+  "music": {
+    "file": null,
+    "bpm": 92,
+    "start": 0,
+    "muffleHz": 420,
+    "repeat": null,
+    "slow": null
+  }
+}

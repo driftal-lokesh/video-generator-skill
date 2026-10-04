@@ -1,0 +1,25 @@
+{
+  "name": "product-video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio",
+    "audio": "node scripts/sfx.mjs && node scripts/music.mjs",
+    "typecheck": "tsc --noEmit -p .",
+    "example": "npm run audio && remotion render Example out/example.mp4 && node scripts/share.mjs out/example.mp4"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.532",
+    "@remotion/cli": "4.0.532",
+    "@remotion/google-fonts": "4.0.532",
+    "@remotion/renderer": "4.0.532",
+    "@remotion/transitions": "4.0.532",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "remotion": "4.0.532"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "typescript": "^5.9.0"
+  }
+}

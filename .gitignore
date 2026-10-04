@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+assets/template/node_modules
+assets/template/out/
+assets/template/public/sfx/
