@@ -13,13 +13,13 @@ reveals; music-driven timing with low/high-tune, silences before reveals and syn
 Personal (all your projects):
 
 ```bash
-git clone https://github.com/lokeshpanthangi/video-generator-skill.git ~/.claude/skills/video-generator
+git clone https://github.com/driftal-lokesh/video-generator-skill.git ~/.claude/skills/video-generator
 ```
 
 Or for one repo (shared with everyone who clones it):
 
 ```bash
-git clone https://github.com/lokeshpanthangi/video-generator-skill.git .claude/skills/video-generator
+git clone https://github.com/driftal-lokesh/video-generator-skill.git .claude/skills/video-generator
 ```
 
 Requirements: Node 18+, Python 3 with Pillow (`pip install pillow`). Remotion fetches its own headless
